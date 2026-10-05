@@ -10,7 +10,7 @@ Most chatbots either rely on the model's memory or always search the web. This p
 
 **1. Upload a PDF and choose whether the agent may search the web**
 
-![Upload and settings](images/demo-upload.jpg)
+![Upload and settings](images/Screen-Recording_2560x1440_clear)
 
 **2. Ask a question: the agent answers from the uploaded document (RAG)**
 
