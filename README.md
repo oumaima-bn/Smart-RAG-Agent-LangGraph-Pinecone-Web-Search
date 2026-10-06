@@ -1,5 +1,7 @@
 # 🤖 Smart RAG Agent – LangGraph, Pinecone & Web Search
 
+**Author** : Oumaima Bendjaj
+
 An AI agent that answers questions by deciding **on its own** whether to use a private knowledge base (RAG), a real-time web search, or just the LLM. Built with **LangGraph**, **FastAPI**, **Streamlit**, **Pinecone** and **Groq**.
 
 ## 📌 Overview
@@ -144,6 +146,4 @@ The response contains the final `response` and a list of `trace_events` (step, n
 - User authentication and profiles
 - Additional tools (calculator, code interpreter)
 
-## 👤 Author
 
-**Oumaima Bendjaj** · [GitHub](https://github.com/oumaima-bn) · [LinkedIn](https://linkedin.com/in/your-profile)
